@@ -1,1 +1,1 @@
-# SimonGameMobile
+# SimonGame
